@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.log
+*.sqlite3
+.env
+.venv/
+venv/
+
+# IDEs e ferramentas
+.vscode/
+.idea/
+*.swp
+
+# Docker
+*.tar
+*.pid
+*.log
+*.sock
+.dockerignore
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
